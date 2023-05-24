@@ -19,34 +19,7 @@
 ![Example Java Text Editor](Screenshots/find-replace-word-in-java-text-editor.png)
 
 
-## AUTHOR
-
-**[Pierre-Henry Soria](http://pierrehenry.be)**
-
-
-### Contributors 🏅
-
-* [Achintha Gunasekara](https://github.com/achinthagunasekara)
-
-* [Patrick Slagle](https://github.com/patrick-slagle)
-
-* [Marcus Redgrave-Close](https://github.com/marcusjrc)
-
-* [Ossi Laukkanen](https://github.com/Fitoh)
-
-* [Akashdeep Singh](https://github.com/akashdeepsingh9988)
-
-* [xdvrx1](https://github.com/xdvrx1)
-
-* [Talha Tariq](https://github.com/TT-talhatariq)
-
-## CONTACT
-
-* Pierre-Henry Soria: hi [AT] ph7 [D0T] me
-
-* Achintha Gunasekara: contact [AT] achinthagunasekara [D0T] com
-
-
+\
 ## DEMO
 
 Download the Jar file and double click to run
